@@ -1,0 +1,2 @@
+Election Algorithm 
+Bully Algorithm
